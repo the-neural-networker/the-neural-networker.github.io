@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - redcarpet
+
+# Setup
+title:            the <br> neural <br> networker
+tagline:          'Musings of a luminary-in-making.'
+description:      'Musings of a luminary-in-making.'
+domain:           the-neural-networker.github.io 
+url:              http://the-neural-networker.github.io
+baseurl:          /
+
+author:
+  name:           'Abhiroop Tejomay'
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/the-neural-networker/the-neural-networker.github.io
