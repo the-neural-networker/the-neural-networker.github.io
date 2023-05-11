@@ -4,7 +4,6 @@ title: Resume/CV
 ---
 
 ## Education
----
 
 **Indiana University Bloomington** <br>
 _May 2024_ <br>
@@ -17,7 +16,6 @@ Bachelor of Technology in Electronics and Communication Engineering
 CGPA: 10/10 
 
 ## Skills
----
 
 **Languages, Tools, and Skills:** Python, Java, C++, SQL (MySQL), HTML, CSS, Git, Jupyter, VS Code, Flask, AWS (EC2, S3), GCP, Docker, Data
 Visualization, Computer Vision, Natural Language Processing, Explainable AI, Software Engineering, MLOps.
@@ -29,7 +27,6 @@ OpenCV, Scikit-Image, NLTK, SpaCy, ONNX, Apache TVM, TensorRT, Flask.
 XGBoost, t-SNE, PCA, CNN, RNN, LSTM, GRU, VAEs, GANs, LIME, Shapley, Data Shapley, Hypothesis Testing.
 
 ## Experience 
----
 
 **Cyberinfrastructure for Network Science Center (CNS)** <br>
 _Oct 2022 – Present_ <br>
@@ -65,7 +62,6 @@ Machine Learning Engineer Hyderabad, Telangana, India
   - Created a desktop application for the tool using PyQt5 and integrated the app into TelePathDx, a digital pathology platform by Onward.
 
 ## Projects
----
 
 **Equitable Data Valuation for Image Segmentation** <br>
 _Feb 2021 - Dec 2021_
