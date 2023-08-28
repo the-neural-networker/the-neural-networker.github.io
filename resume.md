@@ -6,9 +6,10 @@ title: Resume/CV
 ## Education
 
 **Indiana University Bloomington** <br>
-_May 2024_ <br>
+_May 2024_ \
 Master of Science in Computer Science
-CGPA: 3.86/4
+CGPA: 3.88/4 \
+Courses: Applied Algorithms, Deep Learning Systems, Elements of Artificial Intelligence, Applied Machine Learning, Software Engineering, Computer Networks
 
 **ICFAI Foundation for Higher Education** <br>
 _Jun 2020_ <br>
@@ -17,21 +18,38 @@ CGPA: 10/10
 
 ## Skills
 
-**Languages, Tools, and Skills:** Python, Java, C++, SQL (MySQL), HTML, CSS, Git, Jupyter, VS Code, Flask, AWS (EC2, S3), GCP, Docker, Data
-Visualization, Computer Vision, Natural Language Processing, Explainable AI, Software Engineering, MLOps.
+**Technical Skills:** Python, Java, C++, SQL (MySQL), HTML, CSS, Git, Jupyter, Flask, AWS (EC2, S3), GCP, Docker
 
-**Libraries and Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, SciPy, TensorFlow-Keras, PyTorch, PyTorch Lightning,
-OpenCV, Scikit-Image, NLTK, SpaCy, ONNX, Apache TVM, TensorRT, Flask.
-
-**Machine Learning and Deep Learning Algorithms:** KNN, Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests,
-XGBoost, t-SNE, PCA, CNN, RNN, LSTM, GRU, VAEs, GANs, LIME, Shapley, Data Shapley, Hypothesis Testing.
+**Libraries and Frameworks:** Scikit-Learn, TensorFlow-Keras, PyTorch, PyTorch Lightning,
+OpenCV, ONNX, Apache TVM, TensorRT, CoreML, Flask.
 
 ## Experience 
 
+**AiKYNETIX** \
+_May 2023 - Present_ \
+Machine Learning Engineer \
+Houston, Texas, USA
+
+- Ported state-of-the-art human pose estimation models from PyTorch to CoreML format for AiKYNETIX’s human motion video
+analytics iPhone application, improving performance of the app by 25%
+- Collaborated with the web development team and orchestrated the seamless launch of AIK-Web, AiKYNETIX's cutting-edge
+web-based platform for human motion analytics, with a 20% increase in the accuracy of the metrics
+- Deployed the web application end-to-end using Docker with support for switching different pose estimation models
+- Explored PyTorch 2.0’s compile and TorchDynamo enabling faster and easier conversion of PyTorch models to CoreML
+
+**IU Computer Vision Lab** \
+_May 2023 - Present_ \
+Research Assistant  
+Bloomington, Indiana, USA
+
+- Engineered novel diffusion-based depth map refinement and super-resolution networks to enhance depth map quality in multi-view
+stereo networks, optimizing 3D scene reconstruction outcomes
+- Researched 20+ papers based on attention and diffusion-based networks for depth-map super-resolution
+
 **Cyberinfrastructure for Network Science Center (CNS)** <br>
-_Oct 2022 – Present_ <br>
+_Oct 2022 – Apr 2023_ <br>
 Research Assistant - Machine Learning Bloomington, Indiana, USA <br>
-- Collaborating with the Nolan Lab at Stanford and the Van Valen Lab at CalTech in performing single-cell segmentation and cell neighborhood
+- Collaborated with the Nolan Lab at Stanford and the Van Valen Lab at CalTech in performing single-cell segmentation and cell neighborhood
 analysis on CODEX multiplexed imaging data from 7 organs and integrating the pipeline into HuBMAP’s Human Reference Atlas.
 
 **Segmind** <br>
