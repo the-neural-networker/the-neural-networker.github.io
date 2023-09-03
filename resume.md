@@ -49,8 +49,7 @@ stereo networks, optimizing 3D scene reconstruction outcomes
 **Cyberinfrastructure for Network Science Center (CNS)** <br>
 _Oct 2022 – Apr 2023_ <br>
 Research Assistant - Machine Learning Bloomington, Indiana, USA <br>
-- Collaborated with the Nolan Lab at Stanford and the Van Valen Lab at CalTech in performing single-cell segmentation and cell neighborhood
-analysis on CODEX multiplexed imaging data from 7 organs and integrating the pipeline into HuBMAP’s Human Reference Atlas.
+- Collaborated with the Nolan Lab at Stanford and the Van Valen Lab at CalTech in performing single-cell segmentation and cell neighborhood analysis on CODEX multiplexed imaging data from 7 organs and integrating the pipeline into HuBMAP’s Human Reference Atlas.
 
 **Segmind** <br>
 _Apr 2022 – Jul 2022_ <br>
