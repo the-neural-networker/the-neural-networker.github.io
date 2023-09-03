@@ -1,9 +1,9 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Gems
 plugins:
@@ -13,20 +13,20 @@ plugins:
   - redcarpet
 
 # Setup
-title:            the <br> neural <br> networker
-tagline:          'Musings of a luminary-in-making.'
-description:      'Musings of a luminary-in-making.'
-domain:           the-neural-networker.github.io 
-url:              http://the-neural-networker.github.io
-baseurl:          /
+title: the neural networker
+tagline: "Musings of a luminary-in-making."
+description: "Musings of a luminary-in-making."
+domain: the-neural-networker.github.io
+url: http://the-neural-networker.github.io
+baseurl: /
 
 author:
-  name:           'Abhiroop Tejomay'
+  name: "Abhiroop Tejomay"
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          0.0.1
+version: 0.0.1
 
 github:
-  repo:           https://github.com/the-neural-networker/
+  repo: https://github.com/the-neural-networker/
