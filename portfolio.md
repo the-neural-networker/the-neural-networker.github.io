@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Portfolio
+title: Project Portfolio
 ---
+## Image to Prompts
 
 ## Generate fake images
 
@@ -21,4 +22,4 @@ GitHub link: [https://github.com/the-neural-networker/deep-convolutional-gan](ht
 
 Implementation of the neural style transfer paper titled "Image Style Transfer Using Convolutional Neural Networks" using PyTorch. 
 
-GitHub link: [https://github.com/the-neural-networker/deep-convolutional-gan](https://github.com/the-neural-networker/neural-style-transfer)
+Check it out: [https://huggingface.co/spaces/the-neural-networker/neural-style-transfer](https://huggingface.co/spaces/the-neural-networker/neural-style-transfer)
