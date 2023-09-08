@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Portfolio
+title: Portfolio
 ---
 ## Image to Prompts
 
@@ -21,5 +21,12 @@ GitHub link: [https://github.com/the-neural-networker/deep-convolutional-gan](ht
 </p>
 
 Implementation of the neural style transfer paper titled "Image Style Transfer Using Convolutional Neural Networks" using PyTorch. 
+
+<iframe
+    src="https://the-neural-networker-neural-style-transfer.hf.space"
+    frameborder="0"
+    width="850"
+    height="450"
+></iframe>
 
 Check it out: [https://huggingface.co/spaces/the-neural-networker/neural-style-transfer](https://huggingface.co/spaces/the-neural-networker/neural-style-transfer)
