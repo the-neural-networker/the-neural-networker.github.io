@@ -2,7 +2,6 @@
 layout: page
 title: Portfolio
 ---
-## Image to Prompts
 
 ## Generate fake images
 
